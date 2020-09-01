@@ -4,7 +4,7 @@ The Battle of the Leakage Detection and Isolation Methods (BattLeDIM) 2020, orga
 # Website
 http://battledim.ucy.ac.cy/
 
-# Organizing committee
+# Organizing committee/Contributors
 Stelios G. Vrachimis, 	KIOS Center of Excellence, University of Cyprus, Cyprus<br>
 Demetrios G. Eliades,		KIOS Center of Excellence, University of Cyprus, Cyprus<br>
 Riccardo Taormina,		Technical University Delft, the Netherlands<br>
@@ -15,3 +15,8 @@ Marios Kyriakou,		KIOS Center of Excellence, University of Cyprus, Cyprus<br>
 Pavlos Pavlou,			KIOS Center of Excellence, University of Cyprus, Cyprus<br>
 Mengning Qiu,			Technion - Israel Institute of Technology, Israel<br>
 Marios M. Polycarpou,		KIOS Center of Excellence, University of Cyprus, Cyprus
+
+# Requirements
+This work uses the EPANET-Matlab-Toolkit which is a Matlab class for EPANET libraries.
+Please install the toolkit before use.
+For more information see https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit#EPANET-MATLAB-Toolkit .
