@@ -1,0 +1,6 @@
+# linkID, startTime, endTime, leakDiameter (m), leakType, peakTime
+p632, 2019-03-04 13:10
+p632, 2019-03-05 13:10
+p632, 2019-03-05 13:10
+p632, 2019-05-05 12:05
+p632, 2019-05-05 12:15

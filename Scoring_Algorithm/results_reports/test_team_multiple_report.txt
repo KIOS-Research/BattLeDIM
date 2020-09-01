@@ -1,0 +1,41 @@
+-------------------------------------
+TEAM NAME: test_team_multiple
+-------------------------------------
+EPANET version {20200} loaded (EMT version {dev2.2}).
+Loading File "L-TOWN.inp"...
+Input File "L-TOWN.inp" loaded sucessfuly.
+-------------------------------------
+Scoring Parameters
+Max detection distance: 300  (meters)
+Cost of water per m^3: 0.8 (Euro)
+Max repair crew cost per assignment: 500 (Euro)
+-------------------------------------
+Calculating score...
+-------------------------------------
+Detection entry : p632, 2019-03-04 13:10
+Detected leakage: p653, 2019-03-03 13:10
+Score: 10047.8076
+-------------------------------------
+Detection entry : p632, 2019-03-05 13:10
+NO detection
+Score: 0
+-------------------------------------
+Detection entry : p632, 2019-03-05 13:10
+NO detection
+Score: 0
+-------------------------------------
+Detection entry : p632, 2019-05-05 12:05
+NO detection
+Score: 0
+-------------------------------------
+Detection entry : p632, 2019-05-05 12:15
+NO detection
+Score: -500
+-------------------------------------
+TEAM NAME: test_team_multiple
+Total score: € 9547.81
+True Positives: 1
+False Positives: 1
+False Negatives: 22
+-------------------------------------
+EPANET Class is unloaded

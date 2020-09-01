@@ -1,0 +1,117 @@
+-------------------------------------
+TEAM NAME: test_team
+-------------------------------------
+EPANET version {20200} loaded (EMT version {dev2.2}).
+Loading File "L-TOWN.inp"...
+Input File "L-TOWN.inp" loaded sucessfuly.
+-------------------------------------
+Scoring Parameters
+Max detection distance: 300  (meters)
+Cost of water per m^3: 0.8 (Euro)
+Max repair crew cost per assignment: 500 (Euro)
+-------------------------------------
+Calculating score...
+-------------------------------------
+Detection entry : p257, 2019-01-01 00:05
+Detected leakage: p257, 2018-01-08 13:30
+Score: 47071.6787
+-------------------------------------
+Detection entry : p427, 2019-01-01 00:05
+Detected leakage: p427, 2018-02-13 08:25
+Score: 35000.0447
+-------------------------------------
+Detection entry : p810, 2019-01-01 00:05
+Detected leakage: p810, 2018-07-28 03:05
+Score: 47739.018
+-------------------------------------
+Detection entry : p654, 2019-01-01 00:05
+Detected leakage: p654, 2018-07-05 03:40
+Score: 37871.1327
+-------------------------------------
+Detection entry : p257, 2019-01-01 00:10
+NO detection
+Score: 0
+-------------------------------------
+Detection entry : p523, 2019-01-15 23:00
+Detected leakage: p523, 2019-01-15 23:00
+Score: 8902.722
+-------------------------------------
+Detection entry : p827, 2019-01-24 18:30
+Detected leakage: p827, 2019-01-24 18:30
+Score: 6848.354
+-------------------------------------
+Detection entry : p280, 2019-02-10 13:05
+Detected leakage: p280, 2019-02-10 13:05
+Score: 32310.542
+-------------------------------------
+Detection entry : p653, 2019-03-03 13:10
+Detected leakage: p653, 2019-03-03 13:10
+Score: 10458.038
+-------------------------------------
+Detection entry : p710, 2019-03-24 14:15
+Detected leakage: p710, 2019-03-24 14:15
+Score: 29648.6093
+-------------------------------------
+Detection entry : p514, 2019-04-02 20:40
+Detected leakage: p514, 2019-04-02 20:40
+Score: 15044.456
+-------------------------------------
+Detection entry : p331, 2019-04-20 10:10
+Detected leakage: p331, 2019-04-20 10:10
+Score: 51752.7173
+-------------------------------------
+Detection entry : p193, 2019-05-19 10:40
+Detected leakage: p193, 2019-05-19 10:40
+Score: 35680.1787
+-------------------------------------
+Detection entry : p277, 2019-05-30 21:55
+Detected leakage: p277, 2019-05-30 21:55
+Score: 23101.2047
+-------------------------------------
+Detection entry : p142, 2019-06-12 19:55
+Detected leakage: p142, 2019-06-12 19:55
+Score: 17618.578
+-------------------------------------
+Detection entry : p680, 2019-07-10 08:45
+Detected leakage: p680, 2019-07-10 08:45
+Score: 17980.0567
+-------------------------------------
+Detection entry : p586, 2019-07-26 14:40
+Detected leakage: p586, 2019-07-26 14:40
+Score: 11552.9153
+-------------------------------------
+Detection entry : p721, 2019-08-02 03:00
+Detected leakage: p721, 2019-08-02 03:00
+Score: 29078.078
+-------------------------------------
+Detection entry : p800, 2019-08-16 14:00
+Detected leakage: p800, 2019-08-16 14:00
+Score: 13008.9027
+-------------------------------------
+Detection entry : p123, 2019-09-13 20:05
+Detected leakage: p123, 2019-09-13 20:05
+Score: 10005.3307
+-------------------------------------
+Detection entry : p455, 2019-10-03 14:00
+Detected leakage: p455, 2019-10-03 14:00
+Score: 8468.29
+-------------------------------------
+Detection entry : p762, 2019-10-09 10:15
+Detected leakage: p762, 2019-10-09 10:15
+Score: 14025.914
+-------------------------------------
+Detection entry : p426, 2019-10-25 13:25
+Detected leakage: p426, 2019-10-25 13:25
+Score: 17085.946
+-------------------------------------
+Detection entry : p879, 2019-11-20 11:55
+Detected leakage: p879, 2019-11-20 11:55
+Score: 2901.1147
+-------------------------------------
+TEAM NAME: test_team
+Total score: € 523153.82
+True Positives: 23
+False Positives: 0
+False Negatives: 0
+-------------------------------------
+EPANET Class is unloaded
