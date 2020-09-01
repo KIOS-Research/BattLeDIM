@@ -5,13 +5,13 @@ The Battle of the Leakage Detection and Isolation Methods (BattLeDIM) 2020, orga
 http://battledim.ucy.ac.cy/
 
 # Organizing committee
-Stelios G. Vrachimis, 	KIOS Center of Excellence, University of Cyprus, Cyprus
-Demetrios G. Eliades,		KIOS Center of Excellence, University of Cyprus, Cyprus
-Riccardo Taormina,		Technical University Delft, the Netherlands
-Avi Ostfeld,			Technion - Israel Institute of Technology, Israel
-Zoran Kapelan,			Technical University Delft, the Netherlands
-Shuming Liu,			Tsinghua University, China
-Marios Kyriakou,		KIOS Center of Excellence, University of Cyprus, Cyprus
-Pavlos Pavlou,			KIOS Center of Excellence, University of Cyprus, Cyprus
-Mengning Qiu,			Technion - Israel Institute of Technology, Israel
+Stelios G. Vrachimis, 	KIOS Center of Excellence, University of Cyprus, Cyprus<br>
+Demetrios G. Eliades,		KIOS Center of Excellence, University of Cyprus, Cyprus<br>
+Riccardo Taormina,		Technical University Delft, the Netherlands<br>
+Avi Ostfeld,			Technion - Israel Institute of Technology, Israel<br>
+Zoran Kapelan,			Technical University Delft, the Netherlands<br>
+Shuming Liu,			Tsinghua University, China<br>
+Marios Kyriakou,		KIOS Center of Excellence, University of Cyprus, Cyprus<br>
+Pavlos Pavlou,			KIOS Center of Excellence, University of Cyprus, Cyprus<br>
+Mengning Qiu,			Technion - Israel Institute of Technology, Israel<br>
 Marios M. Polycarpou,		KIOS Center of Excellence, University of Cyprus, Cyprus
