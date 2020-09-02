@@ -36,9 +36,9 @@ p1, 2019-02-03 10:00<br>
 p23, 2019-05-09 02:05<br>
 p234, 2019-08-10 03:00<br>
 
-# Codeocean - Instructions
+# CodeOcean - Instructions
 
-In case you dont have access to the required software, e.g. MATLAB, try evaluating your results through CodeOcean computational research platform. 
+In case you don't have access to the required software, e.g. MATLAB, try evaluating your results through the CodeOcean computational research platform:
 
 1. https://codeocean.com/<br>
 2. Create a codeocean account - Sign up<br>
@@ -47,6 +47,6 @@ In case you dont have access to the required software, e.g. MATLAB, try evaluati
 5. Create your results file in the correct format (Results template)<br>
 6. Select the folder `code` and then press the upload icon<br>
 7. Upload your results in a file named `results.txt`<br>
-8. You get message: The following files already exist and will be overwritten if you proceed, Press proceed.
-(Drag the `results.txt` file in folder `code`)<br>
-9. Press <b>Re-Run</b> from in the upper right<br>
+8. You get the message: "The following files already exist and will be overwritten if you proceed". Press "Proceed".
+(In case the file is not in the folder 'code', drag and drop the `results.txt` file in folder `code`)<br>
+9. Press <b>Re-Run</b> in the upper right<br>
