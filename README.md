@@ -40,7 +40,7 @@ p234, 2019-08-10 03:00<br>
 
 In case you don't have access to the required software, e.g. MATLAB, try evaluating your results through the CodeOcean computational research platform:
 
-<b>Note:<b> Pending approval of code from CodeOcean. Please retry in a few days
+<b>Note:</b> Pending approval of code from CodeOcean. Please retry in a few days
 
 1. https://codeocean.com/<br>
 2. Create a codeocean account - Sign up<br>
