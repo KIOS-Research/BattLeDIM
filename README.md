@@ -21,7 +21,7 @@ This work uses the EPANET-Matlab-Toolkit which is a Matlab class for EPANET libr
 Please install the toolkit before use.
 For more information see https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit#EPANET-MATLAB-Toolkit .
 
-# Instructions
+# Instructions for scoring result files
 1. Download and install required software: MATLAB, EPANET-MATLAB toolkit
 2. Download code
 3. Insert your resutls file in the correct format (see Results Template) in Scoring_Algorithm/SUBMITTED_files
