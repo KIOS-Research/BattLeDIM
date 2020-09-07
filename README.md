@@ -33,8 +33,8 @@ Please submit your results in the following format (including spaces):
 
 \# linkID, startTime\
 p1, 2019-02-03 10:00<br>
-p23, 2019-05-09 02:05<br>
-p234, 2019-08-10 03:00<br>
+p23, 2019-05-19 02:05<br>
+p234, 2019-08-21 03:00<br>
 
 # CodeOcean - Instructions
 
