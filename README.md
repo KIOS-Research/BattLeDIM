@@ -48,7 +48,7 @@ In case you don't have access to the required software, e.g. MATLAB, try evaluat
 4. Go to https://codeocean.com/capsule/2366240<br>
 5. Create your results file in the correct format (Results template)<br>
 6. Select the folder `data` and then press the upload icon<br>
-7. Upload your results in a file named `results.txt`<br>
+7. Upload your results in a file named `results_data.txt`<br>
 8. You get the message: "The following files already exist and will be overwritten if you proceed". Press "Proceed".
-(In case the file is not in the folder 'data', drag and drop the `results.txt` file in folder `data`)<br>
+(In case the file is not in the folder 'data', drag and drop the `results_data.txt` file in folder `data`)<br>
 9. Press <b>Re-Run</b> in the upper right<br>
