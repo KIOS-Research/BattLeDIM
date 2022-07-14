@@ -1,6 +1,10 @@
 # BattLeDIM
 The Battle of the Leakage Detection and Isolation Methods (BattLeDIM) 2020, organized initially as part of the 2nd International CCWI/WDSA Joint Conference in Beijing, China (http://www.ccwi-wdsa2020.com/), aims at objectively comparing the performance of methods for the detection and localization of leakage events, relying on SCADA measurements of flow and pressure sensors installed within water distribution networks. Participants may use different types of tools and methods, including (but not limited to) engineering judgement, machine learning, statistical methods, signal processing, and model-based fault diagnosis approaches.
 
+# Cite as:
+S. G. Vrachimis, D. G. Eliades, R. Taormina, Z. Kapelan, A. Ostfeld, S. Liu, M. Kyriakou, P. Pavlou, M. Qiu, and M. M. Polycarpou. Forthcoming. “Battle of the Leakage Detection and Isolation Methods,” Journal of Water Resources Planning and Management, 10.1061/(ASCE)WR.1943-5452.0001601
+
+
 # Website
 http://battledim.ucy.ac.cy/
 
